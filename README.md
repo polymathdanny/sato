@@ -1,4 +1,4 @@
-Sato Specifications
+Sato Specifications.
 ------------
 
 * Name: Sato
